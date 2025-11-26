@@ -33,3 +33,9 @@ build/
 .vscode/
 
 .env
+# Ignore key folder
+src/main/resources/keys/*.pem
+src/main/resources/keys/
+
+
+
